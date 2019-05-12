@@ -1,0 +1,10 @@
+[package]
+name = "machine_learning"
+version = "0.1.0"
+authors = ["victor <fedorenko22116@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+ndarray = "0.12.1"
+arrayvec = "0.4.10"
